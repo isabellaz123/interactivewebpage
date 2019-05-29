@@ -23,3 +23,9 @@ a:hover,a:active
 .topnav .search-container {
   float: right;
   }
+slider{
+  width:800px;
+  height:400;
+  background:url();
+  margin:100px auto;
+  animation:slide 20s infinite;
